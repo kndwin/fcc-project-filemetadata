@@ -1,0 +1,153 @@
+## Marking Rubric
+### Part A and Part B
+#### Demonstrate attainment of Engineers Australia's Stage 1 Competencies
+Provide information about role undertaken, and specific examples of tasks
+that were performed during each industrial placement
+
+The examples provided clearly exemplify multiple indicators of attainment 
+from Tabe 1 and Table 2 of Engineers Australia's Stage 1 Competencies 
+document, with at least 5 Attainment in total.
+
+#### Transfer
+The provided examples demonstrates the student's abilities to **adapt and 
+apply** engineering skills, ablilities, theories, or methedologies to 
+**unfamiliar situations** during the industrial placement and **solve difficult
+and interlinked problems or explores complex issues in original ways**
+
+#### Integrated Communication
+Completes the industrial training report in the required format
+
+The example is written in a manner that connects accurately and explicity the 
+role undertaken and the tasks that were performed during each industrial 
+placement with the indicators of attainment: i.e. the student has a good 
+awareness of the report's purpose and audience.
+
+### Part C
+#### Connections to Experience
+**Compares and contrast** industrial placement experiences and academic 
+knowledge, and **illuminate** differences, as well as similarities, between 
+former and the later. The student also demonstrates **deep understanding** of
+fields of study and broaden own points of view due to the industrial placement
+experience.
+
+*Example*
+At univeristy I had group-based assignments. During my industrial placement at
+PSI, I was a member of an international team that consisted of a PhD student 
+and his supervisor, who were both Swiss-German physcist, and two engineer from 
+France and Italy
+
+A key difference between group-based assignment at university and teamwork in
+the workplace is the composition of my team members. At university, my group
+consist of my classmates only. My team at the workplace composed of individuals
+from difference disciplines and age groups (21 to 45) and cultural background
+
+Working in a multi-discipline team made me realised how a team that possess a 
+wide range of profressional competencies is more fully equipped to meet a wide 
+range of challenges, and how good communication is essential to the success of 
+the team.
+
+I had to write a research plan in one of my course (CEIC4002) after my industry
+placement. I realised how a well written research plan can serve as an effective
+communication tool of setting and prioritising goals, as well as degine the 
+roles and responsibilities of each team member.
+
+#### Reflection and Self-Assessment
+**Evaluates** changes in learning before and after each industrial placement, 
+recognizing complex contextual factors (e.g. works with ambiguity and risk, 
+deal with frustration). **demonstrate self-awareness** and **envisions** a 
+future self or **develop** plans that build on experiences or learning from 
+each industrial placement.
+
+*Example*
+Working in a team during my industrial placement made me realise how I was 
+unprepared for it.
+
+At univestiy, my lecturer had stressed the importance of good communicate in
+group work, but I was never taught or made aware of what good communication
+in a team setting actually entails. For example, I frequently wrote emails 
+that had incomplete information. 
+
+In the future, I will made an effort to learn how to communicate more 
+effectively and professionally, starting with taking a course on business
+communication in March.
+
+## Part A: Description of Placements
+I am working at Appian as an Associate Solution Engineer. My role commence on
+17/01/2020 and presently I am employed full-time.
+
+What is Appian? At a high level, Appian provides a platform that includes a
+range of tools to enable rapid development of enterprise level 
+applications. These tools can be categorized into 3 main components. The first
+being a low-code programming platform called SAIL, the second is being able to
+securely integrate data from multiple sources with Appian Cloud and the final 
+component uses automation scripts called Appian RPA.
+
+At a lower level, Appian's ultises the following stack to achieve the above. 
+On the front-end, Appian offers a WYSIWYG interface that gets rendered through
+React. On top of this, there exist multiple integrations that adds extra 
+functionality and features.
+On the back-end, Appian uses K engines to process work sent through the 
+application server Tomcat. To sync these engines, Appian developed a technology
+called Service Manager that makes sures the K engines are
+, Apache Kafka is ultised to persist all transactions
+On the infrastructure level
+
+As a Solution Engineer, my core responsiblities can be summarised into three 
+main areas. This includes troubleshoot cases
+- Troubleshoot cases
+- help 
+
+
+## Part B: Indicators of Attainment
+
+Issue: 
+- A client reported a case where they have
+Approach
+- Reviewed 2 logs, time stamps, implications, 
+Result
+- Client was satisfied with the result and was able to identify where the 
+  main issue was
+
+
+## Part C: Reflection on Learning and Workpace Experience
+
+What it is, examples, futures
+
+- Steep technical learning curve
+    + What happened
+      When I first started my job, it felt everyday I was struggling to keep up
+      with what was being talk
+    + Examples
+    + Future endeavors
+- Working in a global team
+    + What happened
+    + Examples
+    + Future endeavors
+- Making decisions with incomplete information
+    + What happened
+    + Examples
+    + Future endeavors
+- Office social manners
+    + What happened
+    + Examples
+    + Future endeavors
+- Initiative 
+  
+  Taking initiative requires effective communication and decision making.
+  Whilst working at my role, there's been multiple instances where opportunities
+  to take charge of a situation arised. I learnt that in a work context, taking
+  initiative requires a set of communicational skills.
+  For example, at work. There are levels of prioritise that get assigned to 
+  cases. This ranges from Critical (P1) to Low (P4). When a Critical case comes
+  in, taking initiative is imperitive as there are multiple priortises that has
+  to be resolved in a timely manner. This includes responding to the cases, 
+  reviewing the neccessary information, notifying relevant members of the team 
+  and drafting an incident report. All of these task require initiative as 
+  being a responder, you'll contain the most context which would enable you to 
+  make the most informed decisions. As a result, this situation has taught me
+  to take initiative by making quick informed decisions, communicate effectively
+  and prioritise competing tasks. 
+
+  In comparision to university, taking initiatives for group projects involved a 
+  slightly different challenges. This was because in university, the 
+  responsiveness 
