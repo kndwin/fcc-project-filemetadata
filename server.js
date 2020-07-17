@@ -18,8 +18,8 @@ app.get('/hello', function(req, res){
   res.json({greetings: "Hello, API"});
 });
 
-app.post('/api/fileanalyse', function(req, res){
-  res.json({file: "uploaded"})
+app.post('/api/fileanalyse',upload.single('upfile'), function(req, res){
+  res.json(req.file)
 })
 
 app.listen(process.env.PORT || 3000, function () {
